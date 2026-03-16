@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,sql,flutter" />
 
 ---
 
