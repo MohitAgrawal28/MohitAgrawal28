@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Computer+Science+Student;Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Future+Software+Engineer+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Electronics+%26+Computer+Science+Student;Spring+Boot+%7C+Microservices+Developer;Machine+Learning+Enthusiast;Competitive+Programmer;Future+Software+Engineer+🚀" />
 
 <br><br>
 
@@ -22,7 +22,7 @@
 
 💻 Passionate about **Software Development & Problem Solving**
 🌱 Currently learning **Data Structures & Algorithms**
-⚙️ Exploring **Java Full Stack, Microservices & Machine Learning**
+⚙️ Exploring **DataStructures & Machine Learning**
 🎯 Goal: Become a highly skilled **Software Engineer**
 🔥 Interested in **Backend Engineering, Cloud & AI Systems**
 ⚡ Fun Fact: I enjoy solving difficult coding problems and system design challenges
